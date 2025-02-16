@@ -1,0 +1,6 @@
+state,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price,seats_available
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.6,689.0,20.0
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,AC Sleeper (2+1),23:50,06h 10m,06:00,4.6,999.0,14.0
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),23:20,06h 50m,06:10,4.6,598.0,19.0
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,AdIntrCity SmartBus,,23:05,06h 55m,06:00,4.5,489.0,26.0
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),23:25,06h 10m,05:35,4.7,294.0,33.0
